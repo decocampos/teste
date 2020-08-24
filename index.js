@@ -1,6 +1,4 @@
-/**
- * @description Variáveis
- */
+
 let name = 'Andre'
 let age = '20'
 
